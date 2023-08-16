@@ -1,4 +1,4 @@
-package com.vai.train.controller;
+package com.vai.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,7 +17,7 @@ public class TestController {
 
     @GetMapping("hello")
     public String hello() {
-        return "hello1 nihao wobuhao";
+        return "hello world";
     }
 
 }
