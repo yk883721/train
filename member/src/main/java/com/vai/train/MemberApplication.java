@@ -1,4 +1,4 @@
-package com.vai;
+package com.vai.train;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
